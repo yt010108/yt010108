@@ -1,6 +1,6 @@
-<h1 align="center">yt010108</h1>
+<h1 align="center">Yeongtaek Yoo</h1>
 
-<h3 align="center">Security Research · AI Agents · Reverse Engineering</h3>
+<h3 align="center">Security Researcher focused on Web Security, Reverse Engineering, Vulnerability Research, and AI-assisted Security Automation</h3>
 
 <p align="center">
   <a href="https://yt5246.tistory.com/">
