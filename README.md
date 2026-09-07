@@ -11,8 +11,6 @@
   </a>
 </p>
 
-### Focus
-
 <p align="center">
   <img src="https://img.shields.io/badge/Web_Security-DC143C?style=for-the-badge&logo=owasp&logoColor=white" alt="Web Security" />
   <img src="https://img.shields.io/badge/Reverse_Engineering-222222?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Reverse Engineering" />
