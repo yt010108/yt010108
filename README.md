@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web_Security-DC143C?style=for-the-badge&logo=owasp&logoColor=white" alt="Web Security" />
+  <img src="https://img.shields.io/badge/Web_Security-2563EB?style=for-the-badge&logo=owasp&logoColor=white" alt="Web Security" />
   <img src="https://img.shields.io/badge/Reverse_Engineering-222222?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Reverse Engineering" />
-  <img src="https://img.shields.io/badge/Vulnerability_Research-8B0000?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Vulnerability Research" />
-  <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Vulnerability_Research-D97706?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Vulnerability Research" />
+  <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
 </p>
 
 ---
