@@ -43,8 +43,6 @@ I enjoy turning security workflows into practical tools and agent-based automati
 
 <p align="center">
   <img src="https://img.shields.io/badge/GDB-333333?style=for-the-badge&logo=gnu&logoColor=white" alt="GDB" />
-  <img src="https://img.shields.io/badge/radare2-222222?style=for-the-badge" alt="radare2" />
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" alt="Model Context Protocol" />
 </p>
 
 ### GitHub Stats
