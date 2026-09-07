@@ -1,6 +1,6 @@
 <h1 align="center">Yeongtaek Yoo</h1>
 
-<h3 align="center">Exploring Security, Reverse Engineering, and AI-assisted Tools</h3>
+<h3 align="center">Exploring Web Security, AI-assisted Security Tools, and Reverse Engineering</h3>
 
 <p align="center">
   <a href="https://yt5246.tistory.com/">
