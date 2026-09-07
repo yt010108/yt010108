@@ -11,14 +11,6 @@
   </a>
 </p>
 
----
-
-### About Me
-
-Interested in web security, reverse engineering, vulnerability research, and building AI-assisted security tools.
-
-I enjoy turning security workflows into practical tools and agent-based automation.
-
 ### Focus
 
 <p align="center">
@@ -27,6 +19,14 @@ I enjoy turning security workflows into practical tools and agent-based automati
   <img src="https://img.shields.io/badge/Vulnerability_Research-8B0000?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Vulnerability Research" />
   <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
 </p>
+
+---
+
+### About Me
+
+Interested in web security, reverse engineering, vulnerability research, and building AI-assisted security tools.
+
+I enjoy turning security workflows into practical tools and agent-based automation.
 
 ### Tech Stack
 
