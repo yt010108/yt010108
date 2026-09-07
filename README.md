@@ -34,8 +34,23 @@ I enjoy turning security workflows into practical tools and agent-based automati
   <img src="https://skillicons.dev/icons?i=python,bash,docker,linux,git,github" alt="Python, Bash, Docker, Linux, Git, GitHub" />
 </p>
 
+### Security Tools
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Ghidra-F05032?style=flat-square" alt="Ghidra" />
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite" title="Burp Suite" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/GhidraDocs/images/GHIDRA_1.png" height="48" alt="Ghidra" title="Ghidra" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit" title="Metasploit" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cirtnet.wpenginepowered.com/wp-content/uploads/2025/08/alienlogo_vectorized_500x609-246x300.png" height="48" alt="Nikto" title="Nikto" />
+</p>
+
+<p align="center">
+  <sub>Burp Suite &nbsp;·&nbsp; Ghidra &nbsp;·&nbsp; Metasploit &nbsp;·&nbsp; Nikto</sub>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/GDB-333333?style=flat-square&logo=gnu&logoColor=white" alt="GDB" />
   <img src="https://img.shields.io/badge/radare2-222222?style=flat-square" alt="radare2" />
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" alt="Model Context Protocol" />
