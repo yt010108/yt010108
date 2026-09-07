@@ -26,6 +26,10 @@ Interested in web security, reverse engineering, vulnerability research, and bui
 
 I enjoy turning security workflows into practical tools and agent-based automation.
 
+### Study
+
+- [T34M Rookie](https://github.com/T34M-Rookie/T34M-ROOKIE-Study-Archive) · Security Study Archive
+
 ### Tech Stack
 
 <p align="center">
