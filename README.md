@@ -60,9 +60,18 @@ I enjoy turning security workflows into practical tools and agent-based automati
 
 ### Study
 
-| Name | Description | Link |
-| :--- | :--- | :---: |
-| T34M Rookie | Security study and research archive. | [📁](https://github.com/T34M-Rookie/T34M-ROOKIE-Study-Archive) |
+<table width="100%">
+  <tr>
+    <th width="25%">Name</th>
+    <th width="55%">Description</th>
+    <th width="20%">Link</th>
+  </tr>
+  <tr>
+    <td>T34M Rookie</td>
+    <td>Security study and research archive.</td>
+    <td align="center"><a href="https://github.com/T34M-Rookie/T34M-ROOKIE-Study-Archive">📁 GitHub</a></td>
+  </tr>
+</table>
 
 ### GitHub Stats
 
