@@ -31,7 +31,7 @@ I enjoy turning security workflows into practical tools and agent-based automati
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,c,javascript,docker,linux,git,github" alt="Python, Bash, C, JavaScript, Docker, Linux, Git, GitHub" />
+  <img src="https://skillicons.dev/icons?i=python,bash,c,php,docker,linux,git,github" alt="Python, Bash, C, PHP, Docker, Linux, Git, GitHub" />
 </p>
 
 <p align="center">
