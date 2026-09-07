@@ -60,18 +60,9 @@ I enjoy turning security workflows into practical tools and agent-based automati
 
 ### Study
 
-<table width="100%">
-  <tr>
-    <th width="25%">Name</th>
-    <th width="55%">Description</th>
-    <th width="20%">Link</th>
-  </tr>
-  <tr>
-    <td>T34M Rookie</td>
-    <td>Security study and research archive.</td>
-    <td align="center"><a href="https://github.com/T34M-Rookie/T34M-ROOKIE-Study-Archive">📁 GitHub</a></td>
-  </tr>
-</table>
+| Study | Summary | Topics | Code |
+| :--- | :--- | :---: | :---: |
+| T34M Rookie | Security study archive covering practical web security and vulnerability research activities. | <img src="https://img.shields.io/badge/Web%20Security-2563EB?style=flat&logo=owasp&logoColor=white"> <img src="https://img.shields.io/badge/Security%20Study-444444?style=flat"> | [📁](https://github.com/T34M-Rookie/T34M-ROOKIE-Study-Archive) |
 
 ### GitHub Stats
 
