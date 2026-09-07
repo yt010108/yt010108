@@ -49,7 +49,6 @@ I enjoy turning security workflows into practical tools and agent-based automati
 
 | Project | Summary | Tech Stack | Code |
 | :--- | :--- | :---: | :---: |
-| pentest-helper | AI-assisted workflow for authorized web penetration testing, endpoint triage, vulnerability-focused analysis, and reporting. | <img src="https://img.shields.io/badge/Security-DC143C?style=flat&logo=owasp&logoColor=white"> <img src="https://img.shields.io/badge/AI-412991?style=flat&logo=openai&logoColor=white"> | [📁](https://github.com/yt010108/pentest-helper) |
 | Reverser | Reverse-engineering CTF harness with isolated workers, hypothesis-driven solving, and reusable analysis techniques. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Ghidra-E34F26?style=flat"> | [📁](https://github.com/yt010108/Reverser) |
 | Recon | Reconnaissance harness for authorized domains, URLs, and IPs using Dockerized collection, probing, crawling, and discovery workflows. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Kali%20Linux-557C93?style=flat&logo=kalilinux&logoColor=white"> | [📁](https://github.com/yt010108/Recon) |
 | CVEs | Repository for vulnerability and CVE research. | <img src="https://img.shields.io/badge/Vulnerability%20Research-8B0000?style=flat"> | [📁](https://github.com/yt010108/CVEs) |
@@ -58,8 +57,8 @@ I enjoy turning security workflows into practical tools and agent-based automati
 
 | Project | Summary | Tech Stack | Code |
 | :--- | :--- | :---: | :---: |
+| pentest-helper | AI-assisted workflow for authorized web penetration testing, endpoint triage, vulnerability-focused analysis, and reporting. | <img src="https://img.shields.io/badge/Security-DC143C?style=flat&logo=owasp&logoColor=white"> <img src="https://img.shields.io/badge/AI-412991?style=flat&logo=openai&logoColor=white"> | [📁](https://github.com/yt010108/pentest-helper) |
 | kr-gov-job-mcp | MCP server for Korean public-sector job, NCS competency, institution, and application-strategy analysis. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/MCP-000000?style=flat"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> | [📁](https://github.com/yt010108/kr-gov-job-mcp) |
-| hermes-agent | Fork and experimentation around a self-improving AI agent and automation framework. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/AI%20Agent-412991?style=flat&logo=openai&logoColor=white"> | [📁](https://github.com/yt010108/hermes-agent) |
 
 ### GitHub Stats
 
