@@ -58,9 +58,9 @@ I enjoy turning security workflows into practical tools and agent-based automati
 | pentest-helper | AI-assisted workflow for authorized web penetration testing, endpoint triage, vulnerability-focused analysis, and reporting. | <img src="https://img.shields.io/badge/Security-DC143C?style=flat&logo=owasp&logoColor=white"> <img src="https://img.shields.io/badge/AI-412991?style=flat&logo=openai&logoColor=white"> | [📁](https://github.com/yt010108/pentest-helper) |
 | kr-gov-job-mcp | MCP server for Korean public-sector job, NCS competency, institution, and application-strategy analysis. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/MCP-000000?style=flat"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> | [📁](https://github.com/yt010108/kr-gov-job-mcp) |
 
-### Study
+### Study Group
 
-| Study | Summary | Topics | Code |
+| Group | Summary | Topics | Code |
 | :--- | :--- | :---: | :---: |
 | T34M Rookie | Security study archive covering practical web security and vulnerability research activities. | <img src="https://img.shields.io/badge/Web%20Security-2563EB?style=flat&logo=owasp&logoColor=white"> <img src="https://img.shields.io/badge/Security%20Study-444444?style=flat"> | [📁](https://github.com/T34M-Rookie/T34M-ROOKIE-Study-Archive) |
 
