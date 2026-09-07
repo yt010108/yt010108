@@ -39,10 +39,8 @@ I enjoy turning security workflows into practical tools and agent-based automati
   <img src="https://img.shields.io/badge/Ghidra-E34F26?style=for-the-badge&logoColor=white" alt="Ghidra" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
   <img src="https://img.shields.io/badge/Nikto-111111?style=for-the-badge&logoColor=white" alt="Nikto" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/GDB-333333?style=for-the-badge&logo=gnu&logoColor=white" alt="GDB" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
 </p>
 
 ### GitHub Stats
