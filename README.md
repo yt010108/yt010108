@@ -78,6 +78,12 @@ I enjoy turning security workflows into practical tools and agent-based automati
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yt010108&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/TOKENPHAGE">
+    <img src="https://api.tokenphage.com/badge/yt010108" alt="TokenPhage AI Token Usage" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
