@@ -69,17 +69,3 @@ I enjoy turning security workflows into practical tools and agent-based automati
 | Group | Summary | Topics | Code |
 | :--- | :--- | :---: | :---: |
 | T34M Rookie | Security study archive covering practical web security and vulnerability research activities. | <img src="https://img.shields.io/badge/Web%20Security-2563EB?style=flat&logo=owasp&logoColor=white"> <img src="https://img.shields.io/badge/Security%20Study-444444?style=flat"> | [📁](https://github.com/T34M-Rookie/T34M-ROOKIE-Study-Archive) |
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yt010108&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yt010108&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <i>Security research, automation, and tools that make complex workflows easier to use.</i>
-</p>
